@@ -1,10 +1,10 @@
 <html>
 <body>
-<h1>Welcome To PARAMAAH</h1>
+<h1>Welcome To Swathi Testing App</h1>
 </body>
 <body style="color:red;">
  <div class="container">
-    <label for="uname"><b>Username:    </b></label>
+    <label for="uname"><b>LogIn:    </b></label>
     <input type="text" placeholder="Enter Username" name="uname" required>
 <br></br>
     <label for="psw"><b>Password:     </b></label>
